@@ -24,7 +24,7 @@
 :root,
 .theme-dark {
     --text-normal: #dcddde;
-    --text-muted: #4a4a52;
+    --text-muted: #cccccc;
     --text-link: #6e6af6;
     --text-positive: #50dc7d;
     --text-warning: #8d4949;
@@ -55,7 +55,7 @@
     --brand-experiment: #6e6af6;
     --brand-experiment-hover: #6f6af64d;
     --brand-experiment-560: #6e6af6;
-    --channels-default: #4a4a52;
+    --channels-default: #cccccc;
     --selected-indicator: #97ffa5;
     --hover-indicator: #ffffff;
     --font: "Lato";
